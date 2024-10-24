@@ -19,6 +19,8 @@
 <details>
 <summary>1주차</summary>
 <div markdown="1">
+
+  
 |날짜|문제|정답률|난이도|
 |---|---------|---|
 |10.24|[푸드파이트대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|71%|lv.1|
