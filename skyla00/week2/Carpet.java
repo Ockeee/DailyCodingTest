@@ -3,7 +3,7 @@ class Solution {
         int total = brown + yellow;
         int[] answer = new int[2]; // 크기가 2인 배열로 초기화
 
-        for (int height = 3; height < = total / height; height++) {
+        for (int height = 3; height <= total / height; height++) {
             if (total % height == 0) {
                 int width = total / height;
 
