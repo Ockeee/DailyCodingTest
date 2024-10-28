@@ -19,5 +19,6 @@
 
 | 날짜   | 문제                                                    | 정답률 | 난이도 |
 |--------|---------------------------------------------------------|--------|--------|
-| 10.25  | [푸드파이트대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | 71%    | lv.1   |
-| 10.28  | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | 72%    | lv.2   |
+| 10.25  | [푸드파이트대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | 71%    | Lv.1   |
+| 10.28  | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | 72%    | Lv.2   |
+| 10.29  | [추억점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | 70%    | Lv.1  |
