@@ -23,3 +23,4 @@
 | 10.28  | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | 72%    | Lv.2   |
 | 10.29  | [추억점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | 70%    | Lv.1  |
 | 10.30  | [카드뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | 70%    | Lv.1  |
+| 10.31  | [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) | 65%    | Lv.1  |
