@@ -4,7 +4,7 @@ class Solution {
         String[] days = {"SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"};
 
         // 월마다 일수가 다르기 때문에 일수를 순서대로 담을 배열도
-        int[] months = {0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30};
+        int[] months = {0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
         // 총 일수
         int total = 0;
