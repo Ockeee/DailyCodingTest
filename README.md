@@ -25,3 +25,4 @@
 | 10.30  | [카드뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | 70%    | Lv.1  |
 | 10.31  | [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) | 65%    | Lv.1  |
 | 11.01  | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | 65%    | Lv.1  |
+| 11.02  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 65%    | Lv.2  |
