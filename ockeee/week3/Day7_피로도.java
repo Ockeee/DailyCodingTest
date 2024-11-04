@@ -20,7 +20,7 @@ class Solution {
       // 던전을 돌 순서를 찾기위해 dfs함수를 실행
       dfs(0);
       // 최대 던전 수 반환
-      retunn answer;
+      return answer;
     }
 
     // 최대한 많이 돌 방법을 찾기 위해서
@@ -47,7 +47,7 @@ class Solution {
             visited[i] = true;
             list[depth] = i;
             dfs(depth + 1);
-            visited[i]] = false;
+            visited[i] = false;
           }
         }
     }
