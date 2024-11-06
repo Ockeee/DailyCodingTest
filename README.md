@@ -28,4 +28,4 @@
 | 11.04  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 65%    | Lv.2  |
 | 11.05  | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | 64%   |  Lv.1  | 
 | 11.06  | [과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)  | 64%   | Lv.1  |
-| 11.07  | [소수찾기]([https://school.programmers.co.kr/learn/courses/30/lessons/135808)  | 63%   | Lv.1  |
+| 11.07  | [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/135808)  | 63%   | Lv.1  |
