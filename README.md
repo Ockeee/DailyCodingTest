@@ -29,3 +29,4 @@
 | 11.05  | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | 64%   |  Lv.1  | 
 | 11.06  | [과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)  | 64%   | Lv.1  |
 | 11.07  | [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)  | 63%   | Lv.1  |
+| 11.08  | [소수만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)  | 62%   | Lv.1  |
