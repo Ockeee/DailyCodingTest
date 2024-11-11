@@ -8,7 +8,7 @@ class Solution {
         // 사이즈 2 이상이면
         // 0번, 1번 사이의 최소공배수 구하고 (두 수의 곱을 최대공약수로 나누면 최소공배수)
         int gcm = arr[0] * arr[1] / getGCD(arr[0], arr[1]);
-        // 2번부터 하나씩 비교하면서 최대공배수 업데이트
+        // 2번부터 하나씩 비교하면서 최소공배수 업데이트
         for(int i = 2; i< arr.length; i++){
             gcm = gcm * arr[i] / getGCD(gcm, arr[i]);
         }
