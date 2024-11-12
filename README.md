@@ -32,3 +32,4 @@
 | 11.08  | [소수만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)  | 63%   | Lv.1  |
 | 11.11  | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)  | 70%   | Lv.2  |
 | 11.12  | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)  | 63%   | Lv.1  |
+| 11.13  | [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)  | 62%   | Lv.1  |
