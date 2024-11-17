@@ -34,3 +34,4 @@
 | 11.12  | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)  | 63%   | Lv.1  |
 | 11.13  | [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)  | 62%   | Lv.1  |
 | 11.14  | [지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199)  | 61%   | Lv.1  |
+| 11.18  | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)  |  70%  | Lv.2  |
