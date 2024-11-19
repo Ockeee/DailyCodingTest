@@ -23,7 +23,7 @@ class Solution {
         int maxScore = score + winSet.size() - lottoSet.size();
         
         // 최고 순위와 최저 순위 반환
-        return new int[]{getRank(maxScore), getRank(score), };
+        return new int[]{getRank(maxScore), getRank(score)};
     }
     
     // 맞춘 갯수에 따라 순위 반환하는 메서드
