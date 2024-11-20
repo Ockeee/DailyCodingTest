@@ -37,3 +37,4 @@
 | 11.18  | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)  |  70%  | Lv.2  |
 | 11.19  | [다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)  |  59%  |  Lv1  |
 | 11.20  | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)  |  59%  |  Lv1  |
+| 11.21  | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)  |  58%  |  Lv1  |
