@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 class Solution {
     public int solution(String s) {
+        char firstCh = s.charAt(0);
         int firstChCount = 0;
         int leftChCount = 0;
         int startIndex = 0;
