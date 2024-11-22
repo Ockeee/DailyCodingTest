@@ -39,3 +39,4 @@
 | Day18  | 11.20  | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)  |  59%  |  Lv1  |
 | Day19  | 11.21  | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)  |  58%  |  Lv1  |
 | Day20  | 11.22  | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)  |  58%  | Lv1  |
+| Day21  | 11.25  | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)  |  70%  |  Lv2  |
