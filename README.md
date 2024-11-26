@@ -41,3 +41,4 @@
 | Day20  | 11.22  | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)  |  58%  | Lv1  |
 | Day21  | 11.25  | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)  |  70%  |  Lv2  |
 | Day22  | 11.26  | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)  |  58%  | Lv1  |
+| Day23  | 11.27  | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)  |  57%  | Lv1  |
