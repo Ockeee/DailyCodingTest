@@ -35,11 +35,12 @@
 | Day14  | 11.13  | [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)  | 62%   | Lv.1  |
 | Day15  | 11.14  | [지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199)  | 61%   | Lv.1  |
 | Day16  | 11.18  | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)  |  70%  | Lv.2  |
-| Day17  | 11.19  | [다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)  |  59%  |  Lv1  |
-| Day18  | 11.20  | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)  |  59%  |  Lv1  |
-| Day19  | 11.21  | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)  |  58%  |  Lv1  |
-| Day20  | 11.22  | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)  |  58%  | Lv1  |
-| Day21  | 11.25  | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)  |  70%  |  Lv2  |
-| Day22  | 11.26  | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)  |  58%  | Lv1  |
-| Day23  | 11.27  | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)  |  57%  | Lv1  |
-| Day24  | 11.28  | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)  |  56%  |  Lv1  |
+| Day17  | 11.19  | [다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)  |  59%  |  Lv.1  |
+| Day18  | 11.20  | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)  |  59%  |  Lv.1  |
+| Day19  | 11.21  | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)  |  58%  |  Lv.1  |
+| Day20  | 11.22  | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)  |  58%  | Lv.1  |
+| Day21  | 11.25  | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)  |  70%  |  Lv.2  |
+| Day22  | 11.26  | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)  |  58%  | Lv.1  |
+| Day23  | 11.27  | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)  |  57%  | Lv.1  |
+| Day24  | 11.28  | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)  |  56%  |  Lv.1  |
+| Day25  | 11.29  | [이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125)  |  58%  |  Lv.1  |
