@@ -16,7 +16,9 @@
 |---|---|---|
 
 ## ✅ 일정표
-
+<details>
+<summary> 일정표 </summary>
+  
 | 일차    | 날짜    | 문제                                                    | 정답률 | 난이도 |
 |--------|--------|-------------------------------------------------------|------|------|
 | Day1   | 10.25  | [푸드파이트대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | 71%    | Lv.1   |
@@ -44,3 +46,7 @@
 | Day23  | 11.27  | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)  |  57%  | Lv.1  |
 | Day24  | 11.28  | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)  |  56%  |  Lv.1  |
 | Day25  | 11.29  | [이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125)  |  58%  |  Lv.1  |
+| Day26  | 12.01  | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)  |  70%  |  Lv.2  |
+
+</details>
+
