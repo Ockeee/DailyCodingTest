@@ -47,6 +47,7 @@
 | Day24  | 11.28  | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)  |  56%  |  Lv.1  |
 | Day25  | 11.29  | [이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125)  |  58%  |  Lv.1  |
 | Day26  | 12.01  | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)  |  70%  |  Lv.2  |
+| Day27  | 12.02  | [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)  |  55%  |  Lv.1  |
 
 </details>
 
