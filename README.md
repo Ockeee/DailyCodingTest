@@ -49,6 +49,7 @@
 | Day26  | 12.02  | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)  |  70%  |  Lv.2  |
 | Day27  | 12.03  | [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)  |  55%  |  Lv.1  |
 | Day28  | 12.04  | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)  |  70%  |  Lv.2  |
+| Day29  | 12.05  | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)  |  70%  |  Lv.2  |
 
 </details>
 
