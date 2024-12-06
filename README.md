@@ -51,6 +51,7 @@
 | Day28  | 12.04  | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)  |  70%  |  Lv.2  |
 | Day29  | 12.05  | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)  |  69%  |  Lv.2  |
 | Day30  | 12.06  | [연속 부분 수열 합의 갯수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)  |  69%  |  Lv.2  |
+| Day31  | 12.09  | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)  |  69%  |  Lv2  |
 
 </details>
 
