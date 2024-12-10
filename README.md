@@ -53,6 +53,7 @@
 | Day30  | 12.06  | [연속 부분 수열 합의 갯수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)  |  69%  |  Lv.2  |
 | Day31  | 12.09  | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)  |  69%  |  Lv.2  |
 | Day32  | 12.10  | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)  |  68%  |  Lv.2  |
+| Day33  | 12.11  | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)  |  68%  |  Lv.2  |
 
 </details>
 
