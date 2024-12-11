@@ -54,6 +54,7 @@
 | Day31  | 12.09  | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)  |  69%  |  Lv.2  |
 | Day32  | 12.10  | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)  |  68%  |  Lv.2  |
 | Day33  | 12.11  | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)  |  68%  |  Lv.2  |
+| Day34  | 12.12  | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)  |  67%  |  LV.2  |
 
 </details>
 
